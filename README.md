@@ -1,0 +1,1 @@
+# nodejs-fastify-prisma-boilerplate
